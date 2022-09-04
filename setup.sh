@@ -17,7 +17,7 @@ if [ -d "/data/data/com.termux/files" ];then
     mv scanx /data/data/com.termux/files/usr/bin
     mkdir /data/data/com.termux/ScannerX
     mv scannerx.py /data/data/com.termux/ScannerX
-    rm -rf ../ScannerX
+    rm -rf *
 else
     sudo echo '[*] Setting up it in your Linux'
     sudo apt update -y
@@ -29,7 +29,7 @@ else
     sudo mv scanx /usr/local/bin
     sudo mkdir /usr/local/ScannerX
     sudo mv scannerx.py /usr/local/ScannerX
-    sudo rm -rf ../ScannerX
+    sudo rm -rf *
 
 fi
 
