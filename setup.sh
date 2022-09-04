@@ -15,7 +15,7 @@ if [ -d "/data/data/com.termux/files" ];then
     echo 'python /data/data/com.termux/ScannerX/scannerx.py $1' > scanx
     chmod +x scanx scannerx.py
     mv scanx /data/data/com.termux/files/usr/bin
-    rm -rf /data/data/com.termux/ScannerX /data/data/com.termux/files/usr/bin/scanx
+    rm -rf /data/data/com.termux/ScannerX
     mkdir /data/data/com.termux/ScannerX
     mv scannerx.py /data/data/com.termux/ScannerX
     rm -rf *
@@ -28,7 +28,7 @@ else
     sudo echo 'python3 /usr/local/ScannerX/scannerx.py $1' > scanx
     sudo chmod +x scanx scannerx.py
     sudo mv scanx /usr/local/bin
-    sudo rm -rf /usr/local/bin/scanx /usr/local/ScannerX
+    sudo rm -rf /usr/local/ScannerX
     sudo mkdir /usr/local/ScannerX
     sudo mv scannerx.py /usr/local/ScannerX
     sudo rm -rf *
