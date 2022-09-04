@@ -62,6 +62,13 @@ chmod +x setup.sh
 ```
 apt-get update -y;apt-get upgrade -y;apt install git -y;git clone https://github.com/MrHacker-X/ScannerX.git;cd ScannerX;chmod +x setup.sh;./setup.sh
 ```
+
+### For Linux Users
+
+```
+sudo apt-get update -y;sudo apt-get upgrade -y;sudo apt install git -y;sudo git clone https://github.com/MrHacker-X/ScannerX.git;cd ScannerX;sudo chmod +x setup.sh;./setup.sh
+```
+
 + Now setup in completed so you can launch by typing `scanx <domain>` in your Termux
 
 ## After Launching your screen will look like this
