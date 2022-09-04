@@ -33,6 +33,11 @@
 + Linux
 + Debian
 
+## Usages
+`scanx <domain>`
++ For example
+`scanx example.com `
+
 ## Installation
 
 ### Note
