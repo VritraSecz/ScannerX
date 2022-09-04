@@ -12,8 +12,8 @@ if [ -d "/data/data/com.termux/files" ];then
     apt upgrade -y
     apt install python3 termux-tools -y
     touch scanx
-    echo 'python3 /data/data/com.termux/ScannerX/scannerx.py $1' > scanx
-    chmod +x scanx
+    echo 'python /data/data/com.termux/ScannerX/scannerx.py $1' > scanx
+    chmod +x scanx scannerx.py
     mv scanx /data/data/com.termux/files/usr/bin
     mkdir /data/data/com.termux/ScannerX
     mv scannerx.py /data/data/com.termux/ScannerX
@@ -25,7 +25,7 @@ else
     sudo apt install python3
     sudo touch scanx
     sudo echo 'python3 /usr/local/ScannerX/scannerx.py $1' > scanx
-    sudo chmod +x scanx
+    sudo chmod +x scanx scannerx.py
     sudo mv scanx /usr/local/bin
     sudo mkdir /usr/local/ScannerX
     sudo mv scannerx.py /usr/local/ScannerX
