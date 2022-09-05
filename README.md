@@ -1,4 +1,7 @@
 # ScannerX
+<p align="center"><a href="https://youtube.com/c/Sololex/"><img title="YouTube" src="https://img.shields.io/badge/MrHacker-X-brightgreen?style=for-the-badge&logo=github">
+<p align="center"><a href="https://youtube.com/c/Sololex/"><img title="YouTube" src="https://img.shields.io/badge/YouTube-Hacker X-red?style=for-the-badge&logo=Youtube"></a>
+
 ## Author
 + Alex Butler (MrHacker-X)
 
