@@ -10,7 +10,7 @@ if [ -d "/data/data/com.termux/files" ];then
     echo '[*] Setting up it in your termux'
     apt update -y
     apt upgrade -y
-    apt install python3 termux-tools -y
+    apt install python3 termux-tools wget -y
     touch scanx
     echo 'python /data/data/com.termux/ScannerX/scannerx.py $1' > scanx
     chmod +x scanx scannerx.py
@@ -23,7 +23,7 @@ else
     sudo echo '[*] Setting up it in your Linux'
     sudo apt update -y
     sudo apt upgrade -y
-    sudo apt install python3
+    sudo apt install python3 wget -y
     sudo touch scanx
     sudo echo 'python3 /usr/local/ScannerX/scannerx.py $1' > scanx
     sudo chmod +x scanx scannerx.py
