@@ -1,6 +1,6 @@
 # ScannerX
-<p align="center"><a href="https://youtube.com/c/@Technolex/"><img title="YouTube" src="https://img.shields.io/badge/MrHacker-X-brightgreen?style=for-the-badge&logo=github">
-<p align="center"><a href="https://youtube.com/c/@Technolex/"><img title="YouTube" src="https://img.shields.io/badge/YouTube-Technolex-red?style=for-the-badge&logo=Youtube"></a>
+<p align="center"><a href="https://youtube.com/@Technolex/"><img title="YouTube" src="https://img.shields.io/badge/MrHacker-X-brightgreen?style=for-the-badge&logo=github">
+<p align="center"><a href="https://youtube.com/@Technolex/"><img title="YouTube" src="https://img.shields.io/badge/YouTube-Technolex-red?style=for-the-badge&logo=Youtube"></a>
 
 ## Author
 + Alex Butler (MrHacker-X)
