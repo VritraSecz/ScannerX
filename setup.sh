@@ -1,5 +1,5 @@
 # !/bin/bash
-# Created by Alex Butler (MrHacker-X)
+# Created by Alex Butler (VritraSecz)
 # Don't be a copy cat, Be original always
 
 cat .ban

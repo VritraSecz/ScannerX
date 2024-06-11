@@ -1,4 +1,4 @@
-## Created By Alex Butler (https://github.com/MrHacker-X/)
+## Created By Alex Butler (https://github.com/VritraSecz/)
 ## Don't be a copy cat create your own
 
 import os 
@@ -28,7 +28,7 @@ banner = """\033[1;97m   ____                       \033[1;91m    _  __
  \033[1;97m / __/______  ___  ___  ___ ____\033[1;91m| |/_/
  \033[1;97m_\ \/ __/ _ `/ _ \/ _ \/ -_) __/\033[1;91m> < 
 \033[1;97m/___/\__/\_,_/_//_/_//_/\__/_/\033[1;91m /_/|_| 
-\033[1;91m<------[\033[1;41m\033[1;97mCreated By MrHacker-X\033[0m\033[1;91m]------>
+\033[1;91m<------[\033[1;41m\033[1;97mCreated By VritraSecz\033[0m\033[1;91m]------>
 """
 
 ## main menu
@@ -81,7 +81,7 @@ soc = """\033[1;91m[*] \033[1;97mSelect any options
 ## About section
 
 about = """
-\033[1;91m[*]\033[1;97m Author: \033[1;91mAlex Butler (\033[1;97mMrHacker-X\033[1;91m)
+\033[1;91m[*]\033[1;97m Author: \033[1;91mAlex Butler (\033[1;97mVritraSecz\033[1;91m)
 
 \033[1;97m[*]\033[1;91m Introduction:
 \033[1;91m==> \033[1;97mScannerX is a linux kernal based tool for linux and Termux(Android) user. This tool is written in python3. This tool contain 10 different type of scanning and We've used total more than 11 websites for better scanning. We've also included virustotal scanning here so you can see if link is malicious or not. If you're using this tool then You're able to scan port, subdomain, dns and many more things. 
@@ -108,8 +108,8 @@ about = """
 
 \033[1;91m>\033[1;97m YouTube   : \033[1;91m@\033[1;97m Sololex
 \033[1;91m>\033[1;97m Facebook  : \033[1;91m@\033[1;97m hackerxmr
-\033[1;91m>\033[1;97m Github    : \033[1;91m@\033[1;97m MrHacker-X
-\033[1;91m>\033[1;97m Instagram : \033[1;91m@\033[1;97m 0hacker_x0
+\033[1;91m>\033[1;97m Github    : \033[1;91m@\033[1;97m VritraSecz
+\033[1;91m>\033[1;97m Instagram : \033[1;91m@\033[1;97m haxorlex
 \033[1;91m>\033[1;97m Telegram  : \033[1;91m@\033[1;97m mrhackersx
 """
 
@@ -373,7 +373,7 @@ while True:
         print()
         print("\033[1;91m[*] \033[1;97mOpening my Instagram profile in your device \n")
         time.sleep(1)
-        os.system("xdg-open https://instagram.com/0hacker_x0")
+        os.system("xdg-open https://instagram.com/haxorlex")
       
       elif fol == '2' or fol == '02':
         print()
@@ -385,7 +385,7 @@ while True:
         print()
         print("\033[1;91m[*] \033[1;97mOpening my Github profile in your device \n")
         time.sleep(1)
-        os.system("xdg-open https://github.com/MrHacker-X")
+        os.system("xdg-open https://github.com/VritraSecz")
 
       elif fol == '4' or fol == '04':
         print()
@@ -397,7 +397,7 @@ while True:
         print()
         print("\033[1;91m[*] \033[1;97mOpening my Telegram Channel in your device \n")
         time.sleep(1)
-        os.system("xdg-open https://t.me/hackwithalex")
+        os.system("xdg-open https://t.me/VritraSecz")
 
       elif fol == '95':
         print()
@@ -435,7 +435,7 @@ while True:
       print()
       print('\033[1;91m[*] \033[1;97mScannerX is updating in your Termux\n')
       print("\033[1;91m[*] \033[1;97mThis process can take few minutes, So Be patience\n")
-      os.system("wget https://raw.githubusercontent.com/MrHacker-X/ScannerX/main/scannerx.py")
+      os.system("wget https://raw.githubusercontent.com/VritraSecz/ScannerX/main/scannerx.py")
       os.system("chmod +x scannerx.py")
       os.system("rm /data/data/com.termux/ScannerX/scannerx.py")
       os.system("mv scannerx.py /data/data/com.termux/ScannerX/")
@@ -448,7 +448,7 @@ while True:
       print()
       print('\033[1;91m[*] \033[1;97mScannerX is updating in your Linux OS\n')
       print("\033[1;91m[*] \033[1;97mThis process can take few minutes, So Be patience\n")
-      os.system("sudo wget https://raw.githubusercontent.com/MrHacker-X/ScannerX/main/scannerx.py")
+      os.system("sudo wget https://raw.githubusercontent.com/VritraSecz/ScannerX/main/scannerx.py")
       os.system("sudo chmod +x scannerx.py")
       os.system("sudo rm /usr/local/ScannerX/scannerx.py")
       os.system("sudo mv scannerx.py /usr/local/ScannerX/")
