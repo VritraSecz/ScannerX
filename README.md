@@ -83,11 +83,3 @@ sudo apt-get update -y;sudo apt-get upgrade -y;sudo apt install git -y;sudo git 
 ![photo](https://raw.githubusercontent.com/VritraSecz/ScannerX/main/img/Screenshot_2022-09-04_11_52_13.png)
 ![photo](https://raw.githubusercontent.com/VritraSecz/ScannerX/main/img/Screenshot_2022-09-04_11_52_25.png)
 ![photo](https://raw.githubusercontent.com/VritraSecz/ScannerX/main/img/Screenshot_2022-09-04_11_52_40.png)
-
-## Some Popular repository:
-+ You can check it out
-<p align="center"><a href="https://github.com/VritraSecz/SploitX.git/"><img title="SploitX" src="https://github-readme-stats.vercel.app/api/pin/?username=VritraSecz&repo=SploitX&theme=radical"></a>
-<p align="center"><a href="https://github.com/VritraSecz/LinuxX.git/"><img title="LinuxX" src="https://github-readme-stats.vercel.app/api/pin/?username=VritraSecz&repo=LinuxX&theme=radical"></a>
-<p align="center"><a href="https://github.com/VritraSecz/TraceX.git/"><img title="TraceX" src="https://github-readme-stats.vercel.app/api/pin/?username=VritraSecz&repo=TraceX&theme=radical"></a>
-<p align="center"><a href="https://github.com/VritraSecz/TraceX-GUI.git/"><img title="TraceX-GUI" src="https://github-readme-stats.vercel.app/api/pin/?username=VritraSecz&repo=TraceX-GUI&theme=radical"></a>
-<p align="center"><a href="https://github.com/VritraSecz/BruteX.git/"><img title="BruteX" src="https://github-readme-stats.vercel.app/api/pin/?username=VritraSecz&repo=BruteX&theme=radical"></a>
